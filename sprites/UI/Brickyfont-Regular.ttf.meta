@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 1e986018ff16e574ea35ce795f18e6bf
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Brickyfont
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 9d543d11b13896e4cbc473358fc09980, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
